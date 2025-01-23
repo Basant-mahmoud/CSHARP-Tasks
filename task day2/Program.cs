@@ -1,10 +1,13 @@
 ﻿using static System.Runtime.InteropServices.JavaScript.JSType;
 using static task_day2.Program;
 using System.Linq;
+using System.Collections.Immutable;
 namespace task_day2
 {
     internal class Program
     {
+        static int boxingCount = 0;
+        static int unboxingCount = 0;
         public enum Gender { M,F  };
         [Flags]
         public enum Security_level
@@ -31,6 +34,10 @@ namespace task_day2
             public override string ToString()
             {
                 return $"{day}/{month}/{year}";
+            }
+            public int Compareto(Hire_date other)
+            {
+                return (year, month, day).CompareTo((other.year, other.month, other.day));
             }
 
         }
@@ -123,6 +130,15 @@ namespace task_day2
                 Console.WriteLine(employee.ToString());
                 Console.WriteLine();    
             }
+            Array.Sort(employees, (e1, e2) =>
+            {
+                object obj1 = e1.GetHireDate(), obj2 = e2.GetHireDate();
+                boxingCount += 2;//here boxing
+                return ((Hire_date)obj1).Compareto((Hire_date)obj2);
+            });
+            Console.WriteLine("employes after sorting");
+            Console.WriteLine($"\nBoxing occurred {boxingCount} times.");
+            Console.WriteLine($"Unboxing occurred {unboxingCount} times.");
         }
     }
 }
