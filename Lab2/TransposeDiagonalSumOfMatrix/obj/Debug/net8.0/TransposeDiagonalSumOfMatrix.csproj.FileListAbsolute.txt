@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\bin\Debug\net8.0\TransposeDiagonalSumOfMatrix.exe
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\bin\Debug\net8.0\TransposeDiagonalSumOfMatrix.deps.json
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\bin\Debug\net8.0\TransposeDiagonalSumOfMatrix.runtimeconfig.json
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\bin\Debug\net8.0\TransposeDiagonalSumOfMatrix.dll
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\bin\Debug\net8.0\TransposeDiagonalSumOfMatrix.pdb
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.sourcelink.json
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.dll
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\refint\TransposeDiagonalSumOfMatrix.dll
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.pdb
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\TransposeDiagonalSumOfMatrix.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab2\TransposeDiagonalSumOfMatrix\obj\Debug\net8.0\ref\TransposeDiagonalSumOfMatrix.dll

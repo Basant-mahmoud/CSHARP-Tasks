@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab2\Jagged Array\bin\Debug\net8.0\Jagged Array.exe
+E:\C-Sharp-Task\Lab2\Jagged Array\bin\Debug\net8.0\Jagged Array.deps.json
+E:\C-Sharp-Task\Lab2\Jagged Array\bin\Debug\net8.0\Jagged Array.runtimeconfig.json
+E:\C-Sharp-Task\Lab2\Jagged Array\bin\Debug\net8.0\Jagged Array.dll
+E:\C-Sharp-Task\Lab2\Jagged Array\bin\Debug\net8.0\Jagged Array.pdb
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.sourcelink.json
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.dll
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\refint\Jagged Array.dll
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.pdb
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\Jagged Array.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab2\Jagged Array\obj\Debug\net8.0\ref\Jagged Array.dll

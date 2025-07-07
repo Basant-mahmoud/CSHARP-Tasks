@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\bin\Debug\net8.0\PrimeNumberAndString.exe
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\bin\Debug\net8.0\PrimeNumberAndString.deps.json
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\bin\Debug\net8.0\PrimeNumberAndString.runtimeconfig.json
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\bin\Debug\net8.0\PrimeNumberAndString.dll
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\bin\Debug\net8.0\PrimeNumberAndString.pdb
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.sourcelink.json
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.dll
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\refint\PrimeNumberAndString.dll
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.pdb
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\PrimeNumberAndString.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab2\PrimeNumberAndString\obj\Debug\net8.0\ref\PrimeNumberAndString.dll

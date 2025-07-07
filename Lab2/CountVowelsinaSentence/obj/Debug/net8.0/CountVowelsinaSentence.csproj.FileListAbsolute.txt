@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\bin\Debug\net8.0\CountVowelsinaSentence.exe
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\bin\Debug\net8.0\CountVowelsinaSentence.deps.json
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\bin\Debug\net8.0\CountVowelsinaSentence.runtimeconfig.json
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\bin\Debug\net8.0\CountVowelsinaSentence.dll
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\bin\Debug\net8.0\CountVowelsinaSentence.pdb
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.sourcelink.json
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.dll
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\refint\CountVowelsinaSentence.dll
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.pdb
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\CountVowelsinaSentence.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab2\CountVowelsinaSentence\obj\Debug\net8.0\ref\CountVowelsinaSentence.dll
