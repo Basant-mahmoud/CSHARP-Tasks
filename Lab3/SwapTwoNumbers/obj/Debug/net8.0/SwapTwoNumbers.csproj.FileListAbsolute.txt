@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.exe
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.deps.json
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.runtimeconfig.json
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.dll
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.pdb
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.sourcelink.json
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.dll
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\refint\SwapTwoNumbers.dll
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.pdb
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab3\SwapTwoNumbers\obj\Debug\net8.0\ref\SwapTwoNumbers.dll

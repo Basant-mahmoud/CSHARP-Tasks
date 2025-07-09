@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab3\DivisionHelper\bin\Debug\net8.0\DivisionHelper.exe
+E:\C-Sharp-Task\Lab3\DivisionHelper\bin\Debug\net8.0\DivisionHelper.deps.json
+E:\C-Sharp-Task\Lab3\DivisionHelper\bin\Debug\net8.0\DivisionHelper.runtimeconfig.json
+E:\C-Sharp-Task\Lab3\DivisionHelper\bin\Debug\net8.0\DivisionHelper.dll
+E:\C-Sharp-Task\Lab3\DivisionHelper\bin\Debug\net8.0\DivisionHelper.pdb
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.sourcelink.json
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.dll
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\refint\DivisionHelper.dll
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.pdb
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\DivisionHelper.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab3\DivisionHelper\obj\Debug\net8.0\ref\DivisionHelper.dll

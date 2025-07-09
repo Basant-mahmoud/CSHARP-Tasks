@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab3\IncreaseSalary\bin\Debug\net8.0\IncreaseSalary.exe
+E:\C-Sharp-Task\Lab3\IncreaseSalary\bin\Debug\net8.0\IncreaseSalary.deps.json
+E:\C-Sharp-Task\Lab3\IncreaseSalary\bin\Debug\net8.0\IncreaseSalary.runtimeconfig.json
+E:\C-Sharp-Task\Lab3\IncreaseSalary\bin\Debug\net8.0\IncreaseSalary.dll
+E:\C-Sharp-Task\Lab3\IncreaseSalary\bin\Debug\net8.0\IncreaseSalary.pdb
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.sourcelink.json
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.dll
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\refint\IncreaseSalary.dll
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.pdb
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\IncreaseSalary.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab3\IncreaseSalary\obj\Debug\net8.0\ref\IncreaseSalary.dll

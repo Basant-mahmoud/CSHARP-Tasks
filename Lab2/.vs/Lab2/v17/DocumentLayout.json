@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "E:\\C-Sharp-Task\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30390237-9B1E-46FB-A831-296087565D7F}|Jagged Array\\Jagged Array.csproj|e:\\c-sharp-task\\lab2\\jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30390237-9B1E-46FB-A831-296087565D7F}|Jagged Array\\Jagged Array.csproj|solutionrelative:jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{349CE330-B53C-4CB3-89E4-2BAA7C07533D}|Lab2.csproj|e:\\c-sharp-task\\lab2\\jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CE330-B53C-4CB3-89E4-2BAA7C07533D}|Lab2.csproj|solutionrelative:jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349CE330-B53C-4CB3-89E4-2BAA7C07533D}|Lab2.csproj|e:\\c-sharp-task\\lab2\\transposediagonalsumofmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CE330-B53C-4CB3-89E4-2BAA7C07533D}|Lab2.csproj|solutionrelative:transposediagonalsumofmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349CE330-B53C-4CB3-89E4-2BAA7C07533D}|Lab2.csproj|e:\\c-sharp-task\\lab2\\primenumberandstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349CE330-B53C-4CB3-89E4-2BAA7C07533D}|Lab2.csproj|solutionrelative:primenumberandstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C8FD563-6527-42BB-983C-894868C28FEF}|CountVowelsinaSentence\\CountVowelsinaSentence.csproj|e:\\c-sharp-task\\lab2\\countvowelsinasentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C8FD563-6527-42BB-983C-894868C28FEF}|CountVowelsinaSentence\\CountVowelsinaSentence.csproj|solutionrelative:countvowelsinasentence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940357E6-6E0B-4D6F-8F31-735E9EEA797E}|TransposeDiagonalSumOfMatrix\\TransposeDiagonalSumOfMatrix.csproj|e:\\c-sharp-task\\lab2\\transposediagonalsumofmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{940357E6-6E0B-4D6F-8F31-735E9EEA797E}|TransposeDiagonalSumOfMatrix\\TransposeDiagonalSumOfMatrix.csproj|solutionrelative:transposediagonalsumofmatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C8FD563-6527-42BB-983C-894868C28FEF}|CountVowelsinaSentence\\CountVowelsinaSentence.csproj|e:\\c-sharp-task\\lab2\\countvowelsinasentence\\countvowelsinasentence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C8FD563-6527-42BB-983C-894868C28FEF}|CountVowelsinaSentence\\CountVowelsinaSentence.csproj|solutionrelative:countvowelsinasentence\\countvowelsinasentence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{940357E6-6E0B-4D6F-8F31-735E9EEA797E}|TransposeDiagonalSumOfMatrix\\TransposeDiagonalSumOfMatrix.csproj|e:\\c-sharp-task\\lab2\\transposediagonalsumofmatrix\\transposediagonalsumofmatrix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{940357E6-6E0B-4D6F-8F31-735E9EEA797E}|TransposeDiagonalSumOfMatrix\\TransposeDiagonalSumOfMatrix.csproj|solutionrelative:transposediagonalsumofmatrix\\transposediagonalsumofmatrix.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F3D253A-31BE-4165-BDD7-07F7AC2A0B54}|PrimeNumberAndString\\PrimeNumberAndString.csproj|e:\\c-sharp-task\\lab2\\primenumberandstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3D253A-31BE-4165-BDD7-07F7AC2A0B54}|PrimeNumberAndString\\PrimeNumberAndString.csproj|solutionrelative:primenumberandstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 38,
+          "SelectedChildIndex": 39,
           "Children": [
             {
               "$type": "Bookmark",
@@ -198,20 +202,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountVowelsinaSentence",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\CountVowelsinaSentence\\CountVowelsinaSentence.csproj",
+              "RelativeDocumentMoniker": "CountVowelsinaSentence\\CountVowelsinaSentence.csproj",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\CountVowelsinaSentence\\CountVowelsinaSentence.csproj",
+              "RelativeToolTip": "CountVowelsinaSentence\\CountVowelsinaSentence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T13:41:35.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\Jagged Array\\Program.cs",
               "RelativeDocumentMoniker": "Jagged Array\\Program.cs",
               "ToolTip": "E:\\C-Sharp-Task\\Lab2\\Jagged Array\\Program.cs",
               "RelativeToolTip": "Jagged Array\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T13:54:14.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\CountVowelsinaSentence\\Program.cs",
               "RelativeDocumentMoniker": "CountVowelsinaSentence\\Program.cs",
@@ -224,8 +241,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TransposeDiagonalSumOfMatrix",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\TransposeDiagonalSumOfMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "TransposeDiagonalSumOfMatrix\\Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\TransposeDiagonalSumOfMatrix\\Program.cs",
+              "RelativeToolTip": "TransposeDiagonalSumOfMatrix\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswDUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T12:06:00.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:56:29.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lab2.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:56:24.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\PrimeNumberAndString\\Program.cs",
+              "RelativeDocumentMoniker": "PrimeNumberAndString\\Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\PrimeNumberAndString\\Program.cs",
+              "RelativeToolTip": "PrimeNumberAndString\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:20:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransposeDiagonalSumOfMatrix.csproj",
               "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\TransposeDiagonalSumOfMatrix\\TransposeDiagonalSumOfMatrix.csproj",
               "RelativeDocumentMoniker": "TransposeDiagonalSumOfMatrix\\TransposeDiagonalSumOfMatrix.csproj",
               "ToolTip": "E:\\C-Sharp-Task\\Lab2\\TransposeDiagonalSumOfMatrix\\TransposeDiagonalSumOfMatrix.csproj",
@@ -237,59 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\TransposeDiagonalSumOfMatrix\\Program.cs",
-              "RelativeDocumentMoniker": "TransposeDiagonalSumOfMatrix\\Program.cs",
-              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\TransposeDiagonalSumOfMatrix\\Program.cs",
-              "RelativeToolTip": "TransposeDiagonalSumOfMatrix\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswDUAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T12:06:00.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:56:29.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Lab2.AssemblyInfo.cs",
-              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
-              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\Lab2.AssemblyInfo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:56:24.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\PrimeNumberAndString\\Program.cs",
-              "RelativeDocumentMoniker": "PrimeNumberAndString\\Program.cs",
-              "ToolTip": "E:\\C-Sharp-Task\\Lab2\\PrimeNumberAndString\\Program.cs",
-              "RelativeToolTip": "PrimeNumberAndString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:20:26.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C-Sharp-Task\\Lab2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -297,8 +312,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T11:19:26.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T11:19:26.041Z"
             }
           ]
         },

@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\bin\Debug\net8.0\EmployeeAttendance.exe
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\bin\Debug\net8.0\EmployeeAttendance.deps.json
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\bin\Debug\net8.0\EmployeeAttendance.runtimeconfig.json
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\bin\Debug\net8.0\EmployeeAttendance.dll
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\bin\Debug\net8.0\EmployeeAttendance.pdb
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.sourcelink.json
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.dll
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\refint\EmployeeAttendance.dll
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.pdb
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\EmployeeAttendance.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab3\EmployeeAttendance\obj\Debug\net8.0\ref\EmployeeAttendance.dll

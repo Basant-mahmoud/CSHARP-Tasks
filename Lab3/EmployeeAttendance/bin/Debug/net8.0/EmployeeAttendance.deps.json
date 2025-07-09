@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeAttendance/1.0.0": {
+        "runtime": {
+          "EmployeeAttendance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeAttendance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

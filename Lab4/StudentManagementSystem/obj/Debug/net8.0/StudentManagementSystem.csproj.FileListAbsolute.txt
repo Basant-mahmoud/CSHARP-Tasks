@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.exe
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.deps.json
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.dll
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\bin\Debug\net8.0\StudentManagementSystem.pdb
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.sourcelink.json
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.dll
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab4\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll

@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab3\GetStudentInfo\bin\Debug\net8.0\GetStudentInfo.exe
+E:\C-Sharp-Task\Lab3\GetStudentInfo\bin\Debug\net8.0\GetStudentInfo.deps.json
+E:\C-Sharp-Task\Lab3\GetStudentInfo\bin\Debug\net8.0\GetStudentInfo.runtimeconfig.json
+E:\C-Sharp-Task\Lab3\GetStudentInfo\bin\Debug\net8.0\GetStudentInfo.dll
+E:\C-Sharp-Task\Lab3\GetStudentInfo\bin\Debug\net8.0\GetStudentInfo.pdb
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.sourcelink.json
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.dll
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\refint\GetStudentInfo.dll
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.pdb
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\GetStudentInfo.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab3\GetStudentInfo\obj\Debug\net8.0\ref\GetStudentInfo.dll

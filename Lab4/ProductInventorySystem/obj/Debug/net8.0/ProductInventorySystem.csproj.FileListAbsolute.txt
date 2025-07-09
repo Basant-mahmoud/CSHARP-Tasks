@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\bin\Debug\net8.0\ProductInventorySystem.exe
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\bin\Debug\net8.0\ProductInventorySystem.deps.json
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\bin\Debug\net8.0\ProductInventorySystem.runtimeconfig.json
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\bin\Debug\net8.0\ProductInventorySystem.dll
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\bin\Debug\net8.0\ProductInventorySystem.pdb
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.sourcelink.json
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.dll
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\refint\ProductInventorySystem.dll
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.pdb
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ProductInventorySystem.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab4\ProductInventorySystem\obj\Debug\net8.0\ref\ProductInventorySystem.dll

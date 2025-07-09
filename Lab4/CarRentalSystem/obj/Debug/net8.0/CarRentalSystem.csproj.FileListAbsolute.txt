@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab4\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.exe
+E:\C-Sharp-Task\Lab4\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.deps.json
+E:\C-Sharp-Task\Lab4\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.runtimeconfig.json
+E:\C-Sharp-Task\Lab4\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.dll
+E:\C-Sharp-Task\Lab4\CarRentalSystem\bin\Debug\net8.0\CarRentalSystem.pdb
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.sourcelink.json
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.dll
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\refint\CarRentalSystem.dll
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.pdb
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\CarRentalSystem.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab4\CarRentalSystem\obj\Debug\net8.0\ref\CarRentalSystem.dll

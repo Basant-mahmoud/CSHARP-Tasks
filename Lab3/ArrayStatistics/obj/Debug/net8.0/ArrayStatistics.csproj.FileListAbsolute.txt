@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.sourcelink.json
+E:\C-Sharp-Task\Lab3\ArrayStatistics\bin\Debug\net8.0\ArrayStatistics.exe
+E:\C-Sharp-Task\Lab3\ArrayStatistics\bin\Debug\net8.0\ArrayStatistics.deps.json
+E:\C-Sharp-Task\Lab3\ArrayStatistics\bin\Debug\net8.0\ArrayStatistics.runtimeconfig.json
+E:\C-Sharp-Task\Lab3\ArrayStatistics\bin\Debug\net8.0\ArrayStatistics.dll
+E:\C-Sharp-Task\Lab3\ArrayStatistics\bin\Debug\net8.0\ArrayStatistics.pdb
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.dll
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\refint\ArrayStatistics.dll
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.pdb
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ArrayStatistics.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab3\ArrayStatistics\obj\Debug\net8.0\ref\ArrayStatistics.dll

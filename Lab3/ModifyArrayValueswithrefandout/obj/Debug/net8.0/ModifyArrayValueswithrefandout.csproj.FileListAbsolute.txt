@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\bin\Debug\net8.0\ModifyArrayValueswithrefandout.exe
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\bin\Debug\net8.0\ModifyArrayValueswithrefandout.deps.json
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\bin\Debug\net8.0\ModifyArrayValueswithrefandout.runtimeconfig.json
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\bin\Debug\net8.0\ModifyArrayValueswithrefandout.dll
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\bin\Debug\net8.0\ModifyArrayValueswithrefandout.pdb
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.sourcelink.json
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.dll
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\refint\ModifyArrayValueswithrefandout.dll
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.pdb
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ModifyArrayValueswithrefandout.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab3\ModifyArrayValueswithrefandout\obj\Debug\net8.0\ref\ModifyArrayValueswithrefandout.dll
