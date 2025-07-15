@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\IPAddress\bin\Debug\net8.0\IPAddress.exe
+E:\C-Sharp-Task\IPAddress\bin\Debug\net8.0\IPAddress.deps.json
+E:\C-Sharp-Task\IPAddress\bin\Debug\net8.0\IPAddress.runtimeconfig.json
+E:\C-Sharp-Task\IPAddress\bin\Debug\net8.0\IPAddress.dll
+E:\C-Sharp-Task\IPAddress\bin\Debug\net8.0\IPAddress.pdb
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.AssemblyInfo.cs
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.sourcelink.json
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.dll
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\refint\IPAddress.dll
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.pdb
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\IPAddress.genruntimeconfig.cache
+E:\C-Sharp-Task\IPAddress\obj\Debug\net8.0\ref\IPAddress.dll

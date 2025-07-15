@@ -1,0 +1,5 @@
+E:\C-Sharp-Task\lab6\obj\Debug\net8.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\lab6\obj\Debug\net8.0\lab6.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\lab6\obj\Debug\net8.0\lab6.AssemblyInfo.cs
+E:\C-Sharp-Task\lab6\obj\Debug\net8.0\lab6.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\lab6\obj\Debug\net8.0\lab6.sourcelink.json

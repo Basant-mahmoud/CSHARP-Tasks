@@ -1,0 +1,540 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-Sharp-Task\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\referencebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\referencebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|e:\\c-sharp-task\\lab6\\expert-level library management system\\ilibraryaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8099D4E3-C765-429F-8243-AACACAEFBC7B}|Expert-Level Library Management System\\Expert-Level Library Management System.csproj|solutionrelative:expert-level library management system\\ilibraryaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\transferstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\transferstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\graduatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\scholarshipstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\scholarshipstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\regularstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\regularstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\studentcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\studentcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|e:\\c-sharp-task\\lab6\\student examination management system\\iassessable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AEB00D3-ED7F-4521-99CE-1B7638044CAE}|Student Examination Management System\\Student Examination Management System.csproj|solutionrelative:student examination management system\\iassessable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\C-Sharp-Task\\lab6\\obj\\Debug\\net8.0\\lab6.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\lab6.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E4CFE3-59D5-48C1-B512-A2738CDC99EC}|lab6.csproj|e:\\c-sharp-task\\lab6\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E4CFE3-59D5-48C1-B512-A2738CDC99EC}|lab6.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54E4CFE3-59D5-48C1-B512-A2738CDC99EC}|lab6.csproj|e:\\c-sharp-task\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54E4CFE3-59D5-48C1-B512-A2738CDC99EC}|lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 57,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\StudentManager.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\StudentManager.cs",
+              "RelativeToolTip": "Student Examination Management System\\StudentManager.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:52:14.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GraduateStudent.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\GraduateStudent.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\GraduateStudent.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\GraduateStudent.cs",
+              "RelativeToolTip": "Student Examination Management System\\GraduateStudent.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:01:50.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransferStudent.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\TransferStudent.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\TransferStudent.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\TransferStudent.cs",
+              "RelativeToolTip": "Student Examination Management System\\TransferStudent.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:59:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScholarshipStudent.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\ScholarshipStudent.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\ScholarshipStudent.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\ScholarshipStudent.cs",
+              "RelativeToolTip": "Student Examination Management System\\ScholarshipStudent.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:56:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegularStudent.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\RegularStudent.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\RegularStudent.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\RegularStudent.cs",
+              "RelativeToolTip": "Student Examination Management System\\RegularStudent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:50:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\Student.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\Student.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\Student.cs",
+              "RelativeToolTip": "Student Examination Management System\\Student.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:31:37.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAssessable.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\IAssessable.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\IAssessable.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\IAssessable.cs",
+              "RelativeToolTip": "Student Examination Management System\\IAssessable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:30:13.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentContact.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\StudentContact.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\StudentContact.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\StudentContact.cs",
+              "RelativeToolTip": "Student Examination Management System\\StudentContact.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:25:34.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Student Examination Management System\\Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Student Examination Management System\\Program.cs",
+              "RelativeToolTip": "Student Examination Management System\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:23:45.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "lab6.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\obj\\Debug\\net8.0\\lab6.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\lab6.AssemblyInfo.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\obj\\Debug\\net8.0\\lab6.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\lab6.AssemblyInfo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:07:58.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genres.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Genres.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\Genres.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Genres.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\Genres.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:17:44.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReferenceBook.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\ReferenceBook.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\ReferenceBook.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\ReferenceBook.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\ReferenceBook.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:14:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\LibraryManager.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\LibraryManager.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\LibraryManager.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAH4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:41:14.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Magazine.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\Magazine.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Magazine.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\Magazine.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:12:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Book.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\Book.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Book.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T13:03:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "LibraryItem.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\LibraryItem.cs",
+              "RelativeToolTip": "LibraryItem.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAvwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:56:59.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\LibraryItem.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\LibraryItem.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\LibraryItem.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:14:23.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILibraryAction.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\ILibraryAction.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\ILibraryAction.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\ILibraryAction.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\ILibraryAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:13:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Location.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\Location.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Location.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\Location.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:12:21.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Expert-Level Library Management System\\Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Expert-Level Library Management System\\Program.cs",
+              "RelativeToolTip": "Expert-Level Library Management System\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:09:38.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:08:03.135Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1868,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

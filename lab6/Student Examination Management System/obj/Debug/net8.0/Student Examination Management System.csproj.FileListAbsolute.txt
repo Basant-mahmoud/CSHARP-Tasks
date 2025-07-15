@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\lab6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.exe
+E:\C-Sharp-Task\lab6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.deps.json
+E:\C-Sharp-Task\lab6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.runtimeconfig.json
+E:\C-Sharp-Task\lab6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.dll
+E:\C-Sharp-Task\lab6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.pdb
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.AssemblyInfo.cs
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.sourcelink.json
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.dll
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\refint\Student Examination Management System.dll
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.pdb
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.genruntimeconfig.cache
+E:\C-Sharp-Task\lab6\Student Examination Management System\obj\Debug\net8.0\ref\Student Examination Management System.dll
