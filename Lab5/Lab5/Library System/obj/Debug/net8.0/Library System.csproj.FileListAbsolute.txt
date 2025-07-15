@@ -1,0 +1,14 @@
+C:\Users\Mo\source\repos\Lab5\Library System\bin\Debug\net8.0\Library System.exe
+C:\Users\Mo\source\repos\Lab5\Library System\bin\Debug\net8.0\Library System.deps.json
+C:\Users\Mo\source\repos\Lab5\Library System\bin\Debug\net8.0\Library System.runtimeconfig.json
+C:\Users\Mo\source\repos\Lab5\Library System\bin\Debug\net8.0\Library System.dll
+C:\Users\Mo\source\repos\Lab5\Library System\bin\Debug\net8.0\Library System.pdb
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\Library System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\Library System.AssemblyInfoInputs.cache
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\Library System.AssemblyInfo.cs
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\Library System.csproj.CoreCompileInputs.cache
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\Library System.dll
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\refint\Library System.dll
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\Library System.pdb
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\Library System.genruntimeconfig.cache
+C:\Users\Mo\source\repos\Lab5\Library System\obj\Debug\net8.0\ref\Library System.dll

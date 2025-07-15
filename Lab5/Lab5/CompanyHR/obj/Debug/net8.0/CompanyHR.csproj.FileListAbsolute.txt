@@ -1,0 +1,14 @@
+C:\Users\Mo\source\repos\Lab5\CompanyHR\bin\Debug\net8.0\CompanyHR.exe
+C:\Users\Mo\source\repos\Lab5\CompanyHR\bin\Debug\net8.0\CompanyHR.deps.json
+C:\Users\Mo\source\repos\Lab5\CompanyHR\bin\Debug\net8.0\CompanyHR.runtimeconfig.json
+C:\Users\Mo\source\repos\Lab5\CompanyHR\bin\Debug\net8.0\CompanyHR.dll
+C:\Users\Mo\source\repos\Lab5\CompanyHR\bin\Debug\net8.0\CompanyHR.pdb
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\CompanyHR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\CompanyHR.AssemblyInfoInputs.cache
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\CompanyHR.AssemblyInfo.cs
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\CompanyHR.csproj.CoreCompileInputs.cache
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\CompanyHR.dll
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\refint\CompanyHR.dll
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\CompanyHR.pdb
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\CompanyHR.genruntimeconfig.cache
+C:\Users\Mo\source\repos\Lab5\CompanyHR\obj\Debug\net8.0\ref\CompanyHR.dll
