@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-Sharp-Task\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|e:\\c-sharp-task\\lab7\\smart university management system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|solutionrelative:smart university management system\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|e:\\c-sharp-task\\lab7\\smart university management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|solutionrelative:smart university management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|e:\\c-sharp-task\\lab7\\smart university management system\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|solutionrelative:smart university management system\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|e:\\c-sharp-task\\lab7\\smart university management system\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|solutionrelative:smart university management system\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|e:\\c-sharp-task\\lab7\\smart university management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|solutionrelative:smart university management system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|e:\\c-sharp-task\\lab7\\smart university management system\\universitystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|solutionrelative:smart university management system\\universitystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|e:\\c-sharp-task\\lab7\\smart university management system\\graduationreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D2CAD0-F6C0-43DD-9D7E-931A914E8A6C}|Smart University Management System\\Smart University Management System.csproj|solutionrelative:smart university management system\\graduationreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Department.cs",
+              "RelativeDocumentMoniker": "Smart University Management System\\Department.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Department.cs*",
+              "RelativeToolTip": "Smart University Management System\\Department.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T19:12:57.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Smart University Management System\\Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Program.cs",
+              "RelativeToolTip": "Smart University Management System\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:57:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Course.cs",
+              "RelativeDocumentMoniker": "Smart University Management System\\Course.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Course.cs",
+              "RelativeToolTip": "Smart University Management System\\Course.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:58:34.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Instructor.cs",
+              "RelativeDocumentMoniker": "Smart University Management System\\Instructor.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Instructor.cs",
+              "RelativeToolTip": "Smart University Management System\\Instructor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:58:22.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GraduationReport.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\GraduationReport.cs",
+              "RelativeDocumentMoniker": "Smart University Management System\\GraduationReport.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\GraduationReport.cs",
+              "RelativeToolTip": "Smart University Management System\\GraduationReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:48:53.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversityStats.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\UniversityStats.cs",
+              "RelativeDocumentMoniker": "Smart University Management System\\UniversityStats.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\UniversityStats.cs",
+              "RelativeToolTip": "Smart University Management System\\UniversityStats.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:49:55.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Student.cs",
+              "RelativeDocumentMoniker": "Smart University Management System\\Student.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Lab7\\Smart University Management System\\Student.cs",
+              "RelativeToolTip": "Smart University Management System\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T14:58:08.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1868,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

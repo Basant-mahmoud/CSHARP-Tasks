@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Lab7\Smart University Management System\bin\Debug\net8.0\Smart University Management System.exe
+E:\C-Sharp-Task\Lab7\Smart University Management System\bin\Debug\net8.0\Smart University Management System.deps.json
+E:\C-Sharp-Task\Lab7\Smart University Management System\bin\Debug\net8.0\Smart University Management System.runtimeconfig.json
+E:\C-Sharp-Task\Lab7\Smart University Management System\bin\Debug\net8.0\Smart University Management System.dll
+E:\C-Sharp-Task\Lab7\Smart University Management System\bin\Debug\net8.0\Smart University Management System.pdb
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.AssemblyInfo.cs
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.sourcelink.json
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.dll
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\refint\Smart University Management System.dll
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.pdb
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\Smart University Management System.genruntimeconfig.cache
+E:\C-Sharp-Task\Lab7\Smart University Management System\obj\Debug\net8.0\ref\Smart University Management System.dll
