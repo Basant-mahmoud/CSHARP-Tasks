@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-Sharp-Task\\advancedC#-lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F43193A-94BC-46D7-9296-F9BBC3621664}|..\\NIC\\NIC.csproj|e:\\c-sharp-task\\nic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F43193A-94BC-46D7-9296-F9BBC3621664}|..\\NIC\\NIC.csproj|e:\\c-sharp-task\\nic\\nic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F43193A-94BC-46D7-9296-F9BBC3621664}|..\\NIC\\NIC.csproj|e:\\c-sharp-task\\nic\\nictype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F43193A-94BC-46D7-9296-F9BBC3621664}|..\\NIC\\NIC.csproj|e:\\c-sharp-task\\nic\\nic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5D1DBC-96C3-4220-A3F5-136B3160AFE1}|..\\Point3D\\Point3D.csproj|e:\\c-sharp-task\\point3d\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5D1DBC-96C3-4220-A3F5-136B3160AFE1}|..\\Point3D\\Point3D.csproj|e:\\c-sharp-task\\point3d\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|e:\\c-sharp-task\\advancedc#-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|e:\\c-sharp-task\\advancedc#-lab1\\employeesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|solutionrelative:employeesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|e:\\c-sharp-task\\advancedc#-lab1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|e:\\c-sharp-task\\advancedc#-lab1\\hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|solutionrelative:hiringdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|e:\\c-sharp-task\\advancedc#-lab1\\securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|solutionrelative:securitylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|e:\\c-sharp-task\\advancedc#-lab1\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0386A76A-FE20-49AE-87D0-4068C5963DBA}|advancedC#-lab1.csproj|solutionrelative:gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 42,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NIC",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\NIC\\NIC.csproj",
+              "RelativeDocumentMoniker": "..\\NIC\\NIC.csproj",
+              "ToolTip": "E:\\C-Sharp-Task\\NIC\\NIC.csproj",
+              "RelativeToolTip": "..\\NIC\\NIC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-11T13:33:24.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NICType.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\NIC\\NICType.cs",
+              "RelativeDocumentMoniker": "..\\NIC\\NICType.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\NIC\\NICType.cs",
+              "RelativeToolTip": "..\\NIC\\NICType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:18:21.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NIC.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\NIC\\NIC.cs",
+              "RelativeDocumentMoniker": "..\\NIC\\NIC.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\NIC\\NIC.cs",
+              "RelativeToolTip": "..\\NIC\\NIC.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:17:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\NIC\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NIC\\Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\NIC\\Program.cs",
+              "RelativeToolTip": "..\\NIC\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:17:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Point3D\\Point3D.cs",
+              "RelativeDocumentMoniker": "..\\Point3D\\Point3D.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Point3D\\Point3D.cs",
+              "RelativeToolTip": "..\\Point3D\\Point3D.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:05:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Point3D\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Point3D\\Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Point3D\\Program.cs",
+              "RelativeToolTip": "..\\Point3D\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T13:05:06.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeSearch.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\advancedC#-lab1\\EmployeeSearch.cs",
+              "RelativeDocumentMoniker": "EmployeeSearch.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\advancedC#-lab1\\EmployeeSearch.cs",
+              "RelativeToolTip": "EmployeeSearch.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T12:56:50.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\advancedC#-lab1\\Gender.cs",
+              "RelativeDocumentMoniker": "Gender.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\advancedC#-lab1\\Gender.cs",
+              "RelativeToolTip": "Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:20:40.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\advancedC#-lab1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\advancedC#-lab1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:19:20.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HiringDate.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\advancedC#-lab1\\HiringDate.cs",
+              "RelativeDocumentMoniker": "HiringDate.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\advancedC#-lab1\\HiringDate.cs",
+              "RelativeToolTip": "HiringDate.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwDAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:18:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecurityLevel.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\advancedC#-lab1\\SecurityLevel.cs",
+              "RelativeDocumentMoniker": "SecurityLevel.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\advancedC#-lab1\\SecurityLevel.cs",
+              "RelativeToolTip": "SecurityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:17:09.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\advancedC#-lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\advancedC#-lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T13:16:27.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1868,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
