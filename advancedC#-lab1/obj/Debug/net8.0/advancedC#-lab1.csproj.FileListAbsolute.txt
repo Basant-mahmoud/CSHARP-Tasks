@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\advancedC#-lab1\bin\Debug\net8.0\advancedC#-lab1.exe
+E:\C-Sharp-Task\advancedC#-lab1\bin\Debug\net8.0\advancedC#-lab1.deps.json
+E:\C-Sharp-Task\advancedC#-lab1\bin\Debug\net8.0\advancedC#-lab1.runtimeconfig.json
+E:\C-Sharp-Task\advancedC#-lab1\bin\Debug\net8.0\advancedC#-lab1.dll
+E:\C-Sharp-Task\advancedC#-lab1\bin\Debug\net8.0\advancedC#-lab1.pdb
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.AssemblyInfo.cs
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.sourcelink.json
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.dll
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\refint\advancedC#-lab1.dll
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.pdb
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\advancedC#-lab1.genruntimeconfig.cache
+E:\C-Sharp-Task\advancedC#-lab1\obj\Debug\net8.0\ref\advancedC#-lab1.dll

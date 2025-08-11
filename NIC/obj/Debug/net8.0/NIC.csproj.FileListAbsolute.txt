@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\NIC\bin\Debug\net8.0\NIC.exe
+E:\C-Sharp-Task\NIC\bin\Debug\net8.0\NIC.deps.json
+E:\C-Sharp-Task\NIC\bin\Debug\net8.0\NIC.runtimeconfig.json
+E:\C-Sharp-Task\NIC\bin\Debug\net8.0\NIC.dll
+E:\C-Sharp-Task\NIC\bin\Debug\net8.0\NIC.pdb
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.AssemblyInfo.cs
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.sourcelink.json
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.dll
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\refint\NIC.dll
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.pdb
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\NIC.genruntimeconfig.cache
+E:\C-Sharp-Task\NIC\obj\Debug\net8.0\ref\NIC.dll

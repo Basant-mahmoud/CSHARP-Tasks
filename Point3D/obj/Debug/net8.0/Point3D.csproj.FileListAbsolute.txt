@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Point3D\bin\Debug\net8.0\Point3D.exe
+E:\C-Sharp-Task\Point3D\bin\Debug\net8.0\Point3D.deps.json
+E:\C-Sharp-Task\Point3D\bin\Debug\net8.0\Point3D.runtimeconfig.json
+E:\C-Sharp-Task\Point3D\bin\Debug\net8.0\Point3D.dll
+E:\C-Sharp-Task\Point3D\bin\Debug\net8.0\Point3D.pdb
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.AssemblyInfo.cs
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.sourcelink.json
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.dll
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\refint\Point3D.dll
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.pdb
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\Point3D.genruntimeconfig.cache
+E:\C-Sharp-Task\Point3D\obj\Debug\net8.0\ref\Point3D.dll
