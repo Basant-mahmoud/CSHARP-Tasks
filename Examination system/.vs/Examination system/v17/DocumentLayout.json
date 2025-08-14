@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-Sharp-Task\\Examination system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:practiceexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\idisplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:idisplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:chooseallquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|e:\\c-sharp-task\\examination system\\examination system..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29E72280-3D5D-4CFF-A6B0-50A77CE1C59B}|Examination system..csproj|solutionrelative:examination system..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "ChooseOneQuestion.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "ChooseOneQuestion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:11:11.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\FinalExam.cs",
+              "RelativeDocumentMoniker": "FinalExam.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\FinalExam.cs",
+              "RelativeToolTip": "FinalExam.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:03:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeExam.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\PracticeExam.cs",
+              "RelativeDocumentMoniker": "PracticeExam.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\PracticeExam.cs",
+              "RelativeToolTip": "PracticeExam.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:02:58.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\Exam.cs",
+              "RelativeToolTip": "Exam.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T12:02:11.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChooseAllQuestion.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\ChooseAllQuestion.cs",
+              "RelativeDocumentMoniker": "ChooseAllQuestion.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\ChooseAllQuestion.cs",
+              "RelativeToolTip": "ChooseAllQuestion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:58:53.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "TrueFalseQuestion.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "TrueFalseQuestion.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:57:26.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:55:55.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:55:19.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDisplayable.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\IDisplayable.cs",
+              "RelativeDocumentMoniker": "IDisplayable.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\IDisplayable.cs",
+              "RelativeToolTip": "IDisplayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:54:12.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Examination system..csproj",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\Examination system..csproj",
+              "RelativeDocumentMoniker": "Examination system..csproj",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\Examination system..csproj",
+              "RelativeToolTip": "Examination system..csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T11:53:48.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\Examination system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\Examination system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:53:40.442Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1868,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
