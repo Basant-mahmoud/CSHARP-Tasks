@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C-Sharp-Task\\Student Management System\\",
+  "WorkspaceRootPath": "E:\\C-Sharp-Task\\DelegatePractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7300B09-3D7B-4A74-B4C9-70A1E1D2C6ED}|Student Management System.csproj|e:\\c-sharp-task\\student management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7300B09-3D7B-4A74-B4C9-70A1E1D2C6ED}|Student Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|e:\\c-sharp-task\\delegatepractice\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|solutionrelative:libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|e:\\c-sharp-task\\delegatepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|e:\\c-sharp-task\\delegatepractice\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|e:\\c-sharp-task\\delegatepractice\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|solutionrelative:bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|e:\\c-sharp-task\\delegatepractice\\delegatepractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FDDF2A9-6698-4ABE-A897-F697F48687E9}|DelegatePractice.csproj|solutionrelative:delegatepractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -171,14 +187,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C-Sharp-Task\\Student Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\C-Sharp-Task\\Student Management System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\DelegatePractice\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "LibraryEngine.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\DelegatePractice\\LibraryEngine.cs*",
+              "RelativeToolTip": "LibraryEngine.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwB8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T11:53:32.338Z",
+              "WhenOpened": "2025-08-17T13:02:18.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DelegatePractice",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\DelegatePractice\\DelegatePractice.csproj",
+              "RelativeDocumentMoniker": "DelegatePractice.csproj",
+              "ToolTip": "E:\\C-Sharp-Task\\DelegatePractice\\DelegatePractice.csproj",
+              "RelativeToolTip": "DelegatePractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-17T13:02:09.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\DelegatePractice\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "BookFunctions.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\DelegatePractice\\BookFunctions.cs*",
+              "RelativeToolTip": "BookFunctions.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T12:59:48.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\DelegatePractice\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\DelegatePractice\\Book.cs*",
+              "RelativeToolTip": "Book.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T12:55:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C-Sharp-Task\\DelegatePractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C-Sharp-Task\\DelegatePractice\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T12:49:45.746Z",
               "EditorCaption": ""
             }
           ]
