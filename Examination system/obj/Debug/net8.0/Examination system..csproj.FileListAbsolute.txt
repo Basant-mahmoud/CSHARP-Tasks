@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Examination system\bin\Debug\net8.0\Examination system..exe
+E:\C-Sharp-Task\Examination system\bin\Debug\net8.0\Examination system..deps.json
+E:\C-Sharp-Task\Examination system\bin\Debug\net8.0\Examination system..runtimeconfig.json
+E:\C-Sharp-Task\Examination system\bin\Debug\net8.0\Examination system..dll
+E:\C-Sharp-Task\Examination system\bin\Debug\net8.0\Examination system..pdb
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..AssemblyInfo.cs
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..sourcelink.json
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..dll
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\refint\Examination system..dll
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..pdb
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\Examination system..genruntimeconfig.cache
+E:\C-Sharp-Task\Examination system\obj\Debug\net8.0\ref\Examination system..dll

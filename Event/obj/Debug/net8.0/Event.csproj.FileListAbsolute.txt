@@ -1,0 +1,15 @@
+E:\C-Sharp-Task\Event\bin\Debug\net8.0\Event.exe
+E:\C-Sharp-Task\Event\bin\Debug\net8.0\Event.deps.json
+E:\C-Sharp-Task\Event\bin\Debug\net8.0\Event.runtimeconfig.json
+E:\C-Sharp-Task\Event\bin\Debug\net8.0\Event.dll
+E:\C-Sharp-Task\Event\bin\Debug\net8.0\Event.pdb
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.AssemblyInfoInputs.cache
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.AssemblyInfo.cs
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.csproj.CoreCompileInputs.cache
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.sourcelink.json
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.dll
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\refint\Event.dll
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.pdb
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\Event.genruntimeconfig.cache
+E:\C-Sharp-Task\Event\obj\Debug\net8.0\ref\Event.dll
